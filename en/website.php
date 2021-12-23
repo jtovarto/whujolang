@@ -9,16 +9,16 @@ return [
         'title' => [
             'Creating Moments ', 'and Solutions'
         ],
-        'product_title' => 'Offer experiences and moments',
-        'product_description' => 'Create, share and discover opportunities to increase your income',
-        'share_moment_description' => 'Create and share your knowledge, culture, skills and something more',
-        'experience_description' => 'Design unique and lasting activities from your experience',
+        'product_title' => 'Unique experiences and moments',
+        'product_description' => 'Connect with other people and live new experiences',
+        'share_moment_description' => 'A informal chat to share ideas',
+        'experience_description' => 'Enjoy unique and lasting activities and experiences',
 
-        'modality_title' => 'From wherever you want to live <span class="whujo-brand">whujo</span>',
+        'modality_title' => 'Wherever you are, live <span class="whujo-brand">whujo</span>',
         'onsite_description' => 'Let\'s meet again',
         'online_description' => 'No matter where you are',
 
-        'cta_title' => 'Provide the best moments and experiences, open a world of possibilities',
+        'cta_title' => 'Share the best moments and experiences. Open a world of possibilities',
 
     ],
     'misc' => [

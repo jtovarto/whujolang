@@ -9,21 +9,21 @@ return [
     ],
     'home' => [
         'product_title' => 'Experiencias y momentos únicos',
-        'product_description' => 'Conéctate con otras personas y vive nuevas experiencias',
+        'product_description' => 'Conectate con otras personas y viví nuevas experiencias',
         'share_moment_description' => 'Una simple charla informal para compartir ideas',
         'experience_description' => 'Disfruta actividades y experiencias únicas y duraderas',
 
-        'modality_title' => 'Donde quieras que estes, vive <span class="whujo-brand">whujo</span>',
+        'modality_title' => 'Donde quieras que estes, viví <span class="whujo-brand">whujo</span>',
         'onsite_description' => 'Volvamos a encontrarnos',
         'online_description' => 'No importa dónde estés',
 
-        'cta_title' => 'Comparte los mejores momentos y experiencias. Abre un mundo de posibilidades',
+        'cta_title' => 'Compartí los mejores momentos y experiencias. Abrí un mundo de posibilidades',
 
     ],
     'misc' => [
         'title_service' => "Encuentra la ayuda que necesites",
-        'title_experience' => "Descubre un mundo de cosas nuevas",
-        'title_share' => "Comparte y disfruta valiosos momentos",
+        'title_experience' => "Descubrí un mundo de cosas nuevas",
+        'title_share' => "Compartí y disfrutá valiosos momentos",
     ],
     'landing_about' => [
         'hero-title' => 'Devolviéndole importancia a la presencialidad',
