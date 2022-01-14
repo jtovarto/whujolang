@@ -3,21 +3,21 @@
 return [
 
     'navbar' => [
-        'landing_1' => 'Conócenos',
+        'landing_1' => 'Nosotros',
         'landing_2' => 'Comparte un momento',
         'landing_3' => 'Experiencias'
     ],
     'home' => [
-        'product_title' => 'Ofrece experiencias y momentos',
-        'product_description' => 'Crea, comparte y descubre oportunidades de aumentar tus ingresos',
-        'share_moment_description' => 'Crea y comparte tus conocimientos, cultura, habilidades y algo mas',
-        'experience_description' => 'Diseña actividades unicas y duraderas desde tu experiencia',
+        'product_title' => 'Experiencias y momentos únicos',
+        'product_description' => 'Conéctate con otras personas y vive nuevas experiencias',
+        'share_moment_description' => 'Una simple charla informal para compartir ideas',
+        'experience_description' => 'Disfruta actividades y experiencias únicas y duraderas',
 
-        'modality_title' => 'Desde donde quieras vive <span class="whujo-brand">whujo</span>',
+        'modality_title' => 'Donde quieras que estes, vive <span class="whujo-brand">whujo</span>',
         'onsite_description' => 'Volvamos a encontrarnos',
         'online_description' => 'No importa dónde estés',
 
-        'cta_title' => 'Brinda las mejores momentos y experiencias, abre un mundo de posibilidades',
+        'cta_title' => 'Comparte los mejores momentos y experiencias. Abre un mundo de posibilidades',
 
     ],
     'misc' => [
