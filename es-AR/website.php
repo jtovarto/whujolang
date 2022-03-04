@@ -35,7 +35,7 @@ return [
     ],
     'landing_share' => [
         'title' => 'Comparte momentos <span class="whujo-brand">whujo</span>',
-        'description' => 'Comparte un momento para conversar un tema específico, debatir ideas, aprender de nuevos temas o solo conversar mientras disfrutas de tu bebida favorita o solo del momento',
+        'description' => 'Comparte un momento es una propuesta nueva e innovadora donde te proponemos conocer nuevas personas para charlar un rato, debatir sobre algún tema específico, aprender o simplemente conversar y disfrutar del encuentro en un lugar agradable y seguro',
         'carousel' => 'Disfruta el <span class="whujo-brand">momento!</span>'
     ]
 ];

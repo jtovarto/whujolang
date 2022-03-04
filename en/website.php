@@ -36,7 +36,7 @@ return [
     ],
     'landing_share' => [
         'title' => 'Share <span class="whujo-brand">whujo</span> moments',
-        'description' => 'Share a moment to chat on a specific topic, discuss ideas, learn about new topics, or just chat while enjoying your favorite drink or just the moment',
+        'description' => 'Share a moment is a new and innovative proposal where we propose you to meet new people to chat for a while, discuss a specific topic, learn or simply talk and enjoy the meeting in a pleasant and safe place',
         'carousel'=> 'Enjoin the <span class="whujo-brand">moment!</span>'
     ]
 ];

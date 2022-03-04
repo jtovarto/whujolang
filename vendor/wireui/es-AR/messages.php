@@ -3,7 +3,7 @@
 return [
     'empty_options' => 'Opciones vacías',
     'datePicker'    => [
-        'months'    => "['Enero', 'Febrero', 'Marcha', 'Abril', 'Mayo', 'Junio', 'Julio', 'Agosto', 'Septiembre', 'Octubre', 'Noviembre', 'Diciembre']",
+        'months'    => "['Enero', 'Febrero', 'Marzo', 'Abril', 'Mayo', 'Junio', 'Julio', 'Agosto', 'Septiembre', 'Octubre', 'Noviembre', 'Diciembre']",
         'days'      => "['Dom', 'Lun', 'Mar', 'Mie', 'Jue', 'Vie', 'Sab']",
         'tomorrow'  => 'Mañana',
         'today'     => 'Hoy',
